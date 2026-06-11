@@ -342,13 +342,13 @@ Contoh Data:
 - Mengelola data monitoring
 - Melihat seluruh laporan
 
-### Supervisor
+### Telda Officer
 
 - Monitoring performa STO
 - Monitoring SLA
 - Analisis kendala
 
-### Manager
+### HOTD
 
 - Monitoring KPI
 - Evaluasi performa operasional
